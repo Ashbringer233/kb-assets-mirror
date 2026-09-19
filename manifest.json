@@ -1,0 +1,14 @@
+{
+  "asset": "kb-assets",
+  "channel": "stable",
+  "updated_at": "2026-09-19T03:50:20.684Z",
+  "latest": {
+    "version": "26.93",
+    "file": "bundle.bin",
+    "size": 948933,
+    "sha256": "131a8e9376c286d06cf1c67fc14bb42dd7fd31b7a6487f5084abd91603b73fdf",
+    "min_exe_version": "26.93",
+    "requires_exe_rebuild": true,
+    "note": "接入联网更新通道：装好本版后，以后点「检查更新」即可自动升级"
+  }
+}
