@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-22T02:03:21.301Z",
+  "updated_at": "2026-09-22T02:18:19.286Z",
   "latest": {
-    "version": "26.97",
+    "version": "26.98",
     "file": "bundle.bin",
-    "size": 978771,
-    "sha256": "1826579f6c83d3a7fee9d1e7d9b8bf3cfdc20f1069503f0417ef19758373697d",
+    "size": 980859,
+    "sha256": "e131852dd0f9cf40d27427016575bcd26807e7ed7934fc78b7926feef46df270",
     "min_exe_version": "26.97",
-    "requires_exe_rebuild": true,
-    "note": "退款登记错位修复 + 后台任务中心：本版改了程序主体（server.js / 新增 task-center.js），必须整包升级；请用发布包里的新 exe 覆盖旧的，配置沿用不用改"
+    "requires_exe_rebuild": false,
+    "note": "修「一键更新」点了没反应：通道断链如实回话 + 整包升级文案说全"
   }
 }
