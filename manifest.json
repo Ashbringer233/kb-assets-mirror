@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-22T02:18:19.286Z",
+  "updated_at": "2026-09-22T03:20:23.996Z",
   "latest": {
-    "version": "26.98",
+    "version": "26.99",
     "file": "bundle.bin",
-    "size": 980859,
-    "sha256": "e131852dd0f9cf40d27427016575bcd26807e7ed7934fc78b7926feef46df270",
-    "min_exe_version": "26.97",
-    "requires_exe_rebuild": false,
-    "note": "修「一键更新」点了没反应：通道断链如实回话 + 整包升级文案说全"
+    "size": 982104,
+    "sha256": "b556a67f5ec0d77b5bd75cf27546c4778fd26a7e25090f8c2af3ca1542ab129b",
+    "min_exe_version": "26.99",
+    "requires_exe_rebuild": true,
+    "note": ""
   }
 }
