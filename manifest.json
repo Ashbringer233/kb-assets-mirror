@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-22T14:10:46.651Z",
+  "updated_at": "2026-09-23T11:52:57.990Z",
   "latest": {
-    "version": "26.101",
+    "version": "26.102",
     "file": "bundle.bin",
-    "size": 990057,
-    "sha256": "adab9d25c063df441a3711b66a88cc3f03dd08d92ad91bc88a2a396176033ddd",
-    "min_exe_version": "26.101",
+    "size": 1022351,
+    "sha256": "780eab69acd94a512331de73bc3a52ae9b28e0c934030f2eda749cfe25770786",
+    "min_exe_version": "26.102",
     "requires_exe_rebuild": true,
-    "note": "退款登记改为一单一行一个 SKU（同订单多个 SKU 退款就写多行，金额写该 SKU 累计）；覆盖键升级为「订单号列 + SKU 列两列都一致」，同一 (订单, SKU) 再退只覆盖该行、同订单其它 SKU 的行逐格不动；退款数量列只算该行那个 SKU；是否全额退款仍按整单判（拆出的多行写同一个值）；手动登记改为按订单行勾选 SKU。本版改到程序主体（server.js 与退款登记模块），只能整包装、不能热更。"
+    "note": "报价模块新增子页面「按商品SKU 查全店报价」：整店拉取（OF51 同步导出）+ 本机查找 + 顺手改价格/库存/时效"
   }
 }
