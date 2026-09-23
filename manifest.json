@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-23T11:52:57.990Z",
+  "updated_at": "2026-09-23T13:23:13.192Z",
   "latest": {
-    "version": "26.102",
+    "version": "26.103",
     "file": "bundle.bin",
-    "size": 1022351,
-    "sha256": "780eab69acd94a512331de73bc3a52ae9b28e0c934030f2eda749cfe25770786",
-    "min_exe_version": "26.102",
+    "size": 1025798,
+    "sha256": "d3680e53305a080b3b784511c1f18fcdc6b5b7cf3f0110ba993895b8b5c171de",
+    "min_exe_version": "26.103",
     "requires_exe_rebuild": true,
-    "note": "报价模块新增子页面「按商品SKU 查全店报价」：整店拉取（OF51 同步导出）+ 本机查找 + 顺手改价格/库存/时效"
+    "note": "配对表首次启动自动同步（首次 3 秒就开跑并落盘缓存）+ 报价子页面四处修正：撤「命中列/成色/来源」三列、去掉重复显示、修掉「改了报价没有保存键」（复合键 U+0000 被 HTML 解析器改写成 U+FFFD ⇒ 编辑监听整块静默跳过）、遍历 14 店文案改 17 店"
   }
 }
