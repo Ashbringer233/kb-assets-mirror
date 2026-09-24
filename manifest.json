@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-24T07:17:01.897Z",
+  "updated_at": "2026-09-24T07:46:14.526Z",
   "latest": {
-    "version": "26.108",
+    "version": "26.109",
     "file": "bundle.bin",
-    "size": 1028042,
-    "sha256": "f1979c5a2a28c0e2c0110c8862b147c1924cd230bc7748fd670c51f1f08e2980",
-    "min_exe_version": "26.108",
+    "size": 1028216,
+    "sha256": "43477dacc90e8c48b2e12c79a3200bd55e15db95096a416d4068b5d981c73355",
+    "min_exe_version": "26.109",
     "requires_exe_rebuild": true,
-    "note": "右上角任务浮窗不再被站内信操作栏盖住（topbar 层级 20→40）；改价导入遇 404（平台未受理）约 10 秒判失败并点名复核，不再傻等 20 分钟"
+    "note": "修复「页上改价显示成功、任务中心却报404失败」：平台改价导入状态没有按ID单查路径（永远404），跟踪改走列表接口按导入编号查找——实测那笔导入在平台侧COMPLETE、1行成功0错误，改价其实完全成功"
   }
 }
