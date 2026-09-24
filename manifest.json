@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-23T13:23:13.192Z",
+  "updated_at": "2026-09-24T03:01:22.556Z",
   "latest": {
-    "version": "26.103",
+    "version": "26.104",
     "file": "bundle.bin",
-    "size": 1025798,
-    "sha256": "d3680e53305a080b3b784511c1f18fcdc6b5b7cf3f0110ba993895b8b5c171de",
-    "min_exe_version": "26.103",
+    "size": 1027031,
+    "sha256": "aad493e68f4f36de69df26221cc309293b2dbe0bde78a5aa9766e869f3b81f88",
+    "min_exe_version": "26.104",
     "requires_exe_rebuild": true,
-    "note": "配对表首次启动自动同步（首次 3 秒就开跑并落盘缓存）+ 报价子页面四处修正：撤「命中列/成色/来源」三列、去掉重复显示、修掉「改了报价没有保存键」（复合键 U+0000 被 HTML 解析器改写成 U+FFFD ⇒ 编辑监听整块静默跳过）、遍历 14 店文案改 17 店"
+    "note": "报价子页面「平台查不到报价」的候选行不再渲染（只藏 missing、保留 unknown —— 不把「没查到」伪装成「没有」）；藏行不重排行号下标，防 v26.102「改了值不记账」同类回归"
   }
 }
