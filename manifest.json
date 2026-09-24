@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-24T07:00:22.991Z",
+  "updated_at": "2026-09-24T07:17:01.897Z",
   "latest": {
-    "version": "26.107",
+    "version": "26.108",
     "file": "bundle.bin",
-    "size": 1028203,
-    "sha256": "09face0661eeafbe3bea996fac5c623d6e23cccd3599f7a14dc5feee8bb4e9a2",
-    "min_exe_version": "26.107",
+    "size": 1028042,
+    "sha256": "f1979c5a2a28c0e2c0110c8862b147c1924cd230bc7748fd670c51f1f08e2980",
+    "min_exe_version": "26.108",
     "requires_exe_rebuild": true,
-    "note": "后台任务条目点名 SKU：改价（PRI01）/修改报价（OF24）的任务从「N 个 SKU」改为「N 个 SKU：SKU甲、SKU乙、SKU丙」（最多 3 个，更多用「等」收尾）；处理完成/报错/等待超时的收尾文案同样点名，报错与超时能直接看到是哪个 SKU；任务条目文字上限 120→240 字符。纯展示层改动，不改提交行为"
+    "note": "右上角任务浮窗不再被站内信操作栏盖住（topbar 层级 20→40）；改价导入遇 404（平台未受理）约 10 秒判失败并点名复核，不再傻等 20 分钟"
   }
 }
