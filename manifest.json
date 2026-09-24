@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-24T08:32:23.039Z",
+  "updated_at": "2026-09-24T14:46:59.216Z",
   "latest": {
-    "version": "26.110",
+    "version": "26.111",
     "file": "bundle.bin",
-    "size": 1027630,
-    "sha256": "b8253a53ec0f84bc038afc236a206cc1166ffd1f69f0ade9a933c5364791e1db",
-    "min_exe_version": "26.110",
+    "size": 1044582,
+    "sha256": "3444945026cc4d526525233142ffcf94186e96e5a97936c41692e5112fb76df3",
+    "min_exe_version": "26.111",
     "requires_exe_rebuild": true,
-    "note": "「按商品SKU 查全店报价」结果表撤掉状态列（信息挪进行悬停提示，顶部汇总统计保留），表格更清爽"
+    "note": "站内信新增「补发」按钮：录承运商+运单号，自动在当前会话回复客户补发通知（德/西双语模板、问候按客户资料分级）"
   }
 }
