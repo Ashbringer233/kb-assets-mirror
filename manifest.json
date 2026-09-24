@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-24T06:30:26.040Z",
+  "updated_at": "2026-09-24T07:00:22.991Z",
   "latest": {
-    "version": "26.106",
+    "version": "26.107",
     "file": "bundle.bin",
-    "size": 1028169,
-    "sha256": "13fd78615bfec83a9b224e13c7082e339dbfc86728633f491f3b54d439057168",
-    "min_exe_version": "26.106",
+    "size": 1028203,
+    "sha256": "09face0661eeafbe3bea996fac5c623d6e23cccd3599f7a14dc5feee8bb4e9a2",
+    "min_exe_version": "26.107",
     "requires_exe_rebuild": true,
-    "note": "修「折扣价被覆盖到折前价」：报价保存流改为先 OF24（库存/成色/时效）后 PRI01（价格）一锤定音；OF24 的价格只填基础价（原价）；带折扣的行在 OF24 之后自动补一道价格导入重申「原价+折扣」；改价复查未确认时提示加粗。附带已把事故报价 XSY330-GreenEU 修回 原价52/折扣29.69"
+    "note": "后台任务条目点名 SKU：改价（PRI01）/修改报价（OF24）的任务从「N 个 SKU」改为「N 个 SKU：SKU甲、SKU乙、SKU丙」（最多 3 个，更多用「等」收尾）；处理完成/报错/等待超时的收尾文案同样点名，报错与超时能直接看到是哪个 SKU；任务条目文字上限 120→240 字符。纯展示层改动，不改提交行为"
   }
 }
