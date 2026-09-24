@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-24T14:46:59.216Z",
+  "updated_at": "2026-09-24T15:17:24.803Z",
   "latest": {
-    "version": "26.111",
+    "version": "26.112",
     "file": "bundle.bin",
-    "size": 1044582,
-    "sha256": "3444945026cc4d526525233142ffcf94186e96e5a97936c41692e5112fb76df3",
-    "min_exe_version": "26.111",
+    "size": 1046274,
+    "sha256": "44d126df426ddc26dbd4db44ee550c90a40819ef57b2affaeac3118a7320da2a",
+    "min_exe_version": "26.112",
     "requires_exe_rebuild": true,
-    "note": "站内信新增「补发」按钮：录承运商+运单号，自动在当前会话回复客户补发通知（德/西双语模板、问候按客户资料分级）"
+    "note": "补发按钮配色修复：线程头补发键新增天蓝色调；弹窗发送键修复白底白字隐形（改绿色实心）。纯界面修复，需整包升级。"
   }
 }
