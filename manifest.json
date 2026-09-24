@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-24T07:46:14.526Z",
+  "updated_at": "2026-09-24T08:32:23.039Z",
   "latest": {
-    "version": "26.109",
+    "version": "26.110",
     "file": "bundle.bin",
-    "size": 1028216,
-    "sha256": "43477dacc90e8c48b2e12c79a3200bd55e15db95096a416d4068b5d981c73355",
-    "min_exe_version": "26.109",
+    "size": 1027630,
+    "sha256": "b8253a53ec0f84bc038afc236a206cc1166ffd1f69f0ade9a933c5364791e1db",
+    "min_exe_version": "26.110",
     "requires_exe_rebuild": true,
-    "note": "修复「页上改价显示成功、任务中心却报404失败」：平台改价导入状态没有按ID单查路径（永远404），跟踪改走列表接口按导入编号查找——实测那笔导入在平台侧COMPLETE、1行成功0错误，改价其实完全成功"
+    "note": "「按商品SKU 查全店报价」结果表撤掉状态列（信息挪进行悬停提示，顶部汇总统计保留），表格更清爽"
   }
 }
