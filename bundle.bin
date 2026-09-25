@@ -4,7 +4,7 @@
   "app_version": "26.113",
   "min_exe_version": "26.113",
   "requires_exe_rebuild": true,
-  "created_at": "2026-09-25T09:10:19.581Z",
+  "created_at": "2026-09-25T09:10:57.303Z",
   "note": "改价偶发「折扣价被覆盖回折前价」修复：OF24 平台终态闸门（等 COMPLETE 再发 PRI01，90s 上限）+ 改价确认连续双读 + 未确认行留脏表；报价管理与SKU全店报价两处保存流同步修复",
   "files": [
     {
