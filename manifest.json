@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-26T09:28:20.354Z",
+  "updated_at": "2026-09-26T17:09:40.625Z",
   "latest": {
-    "version": "26.114",
+    "version": "26.115",
     "file": "bundle.bin",
-    "size": 1052880,
-    "sha256": "92de6941e1e37e03167053614a6e3305b315de49c1edfe5d6d3b0e01af415443",
-    "min_exe_version": "26.114",
+    "size": 1063953,
+    "sha256": "1f1af6c5323fa2ab459e914c4ca892cb259d5de2437355ee72fd62f909e22ba0",
+    "min_exe_version": "26.115",
     "requires_exe_rebuild": true,
-    "note": "v26.114 退款链路任务：一条任务看全退款→通知买家→腾讯文档登记"
+    "note": "异常订单审核模块：ERP 申请运单异常自动登记腾讯文档+改址建议+工作台执行；ERP 账号口径固化本人账号；腾讯文档删行 API 修复（平铺+ROW+1基）"
   }
 }
