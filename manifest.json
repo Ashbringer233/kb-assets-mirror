@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-25T09:10:57.317Z",
+  "updated_at": "2026-09-26T09:28:20.354Z",
   "latest": {
-    "version": "26.113",
+    "version": "26.114",
     "file": "bundle.bin",
-    "size": 1053170,
-    "sha256": "bd2a96c1f523c670fd03902ebf1d8a568b87c3408a803109ff77f55281ae353a",
-    "min_exe_version": "26.113",
+    "size": 1052880,
+    "sha256": "92de6941e1e37e03167053614a6e3305b315de49c1edfe5d6d3b0e01af415443",
+    "min_exe_version": "26.114",
     "requires_exe_rebuild": true,
-    "note": "改价偶发「折扣价被覆盖回折前价」修复：OF24 平台终态闸门（等 COMPLETE 再发 PRI01，90s 上限）+ 改价确认连续双读 + 未确认行留脏表；报价管理与SKU全店报价两处保存流同步修复"
+    "note": "v26.114 退款链路任务：一条任务看全退款→通知买家→腾讯文档登记"
   }
 }
