@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-26T17:24:33.830Z",
+  "updated_at": "2026-09-30T15:09:59.488Z",
   "latest": {
-    "version": "26.115",
+    "version": "26.116",
     "file": "bundle.bin",
-    "size": 1063953,
-    "sha256": "2b7e0408beecc74e1c08b283c4098c6c7cffda1f886de1af1c7f11fdb2b7fd23",
-    "min_exe_version": "26.115",
+    "size": 1064691,
+    "sha256": "223cd55e801d34215c7f116e3d5bb20f2a9e7a04fe8e6d2f8e83daaaeae3fb1e",
+    "min_exe_version": "26.116",
     "requires_exe_rebuild": true,
-    "note": "异常订单审核模块：ERP 申请运单异常自动登记腾讯文档+改址建议+工作台执行；ERP 账号口径固化本人账号；腾讯文档删行 API 修复（平铺+ROW+1基）"
+    "note": "全店报价实时核价修复：命中行 OF21 定点单查，导出管道旧缓存不再上屏"
   }
 }
