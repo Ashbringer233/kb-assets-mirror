@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-09-30T15:09:59.488Z",
+  "updated_at": "2026-10-01T09:20:11.726Z",
   "latest": {
-    "version": "26.116",
+    "version": "26.117",
     "file": "bundle.bin",
-    "size": 1064691,
-    "sha256": "223cd55e801d34215c7f116e3d5bb20f2a9e7a04fe8e6d2f8e83daaaeae3fb1e",
-    "min_exe_version": "26.116",
+    "size": 1064589,
+    "sha256": "a6e4d0528e614570f20558c840cc53db74c7b718be7a0cf284ffc631068d1a5b",
+    "min_exe_version": "26.117",
     "requires_exe_rebuild": true,
-    "note": "全店报价实时核价修复：命中行 OF21 定点单查，导出管道旧缓存不再上屏"
+    "note": "v26.117 发布"
   }
 }
