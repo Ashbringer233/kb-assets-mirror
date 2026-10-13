@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-12T09:53:06.081Z",
+  "updated_at": "2026-10-13T07:22:43.369Z",
   "latest": {
-    "version": "26.125",
+    "version": "26.126",
     "file": "bundle.bin",
-    "size": 1086028,
-    "sha256": "deab5bb12b69af161b40faa1fca0b824309572e83a4615dfec8fd0ad8bd3be71",
-    "min_exe_version": "26.125",
+    "size": 1091719,
+    "sha256": "c31ab84ac60f30dc882f6e900980ec90a443fe2cf1b77b359dade59e1e8c2332",
+    "min_exe_version": "26.126",
     "requires_exe_rebuild": true,
-    "note": "v26.125 发布"
+    "note": "退款登记新格式：登记人/问题大类/参考退货理由三列 + 两级表头匹配 + UI 四入口必填"
   }
 }
