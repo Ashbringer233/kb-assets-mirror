@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-20T05:00:34.039Z",
+  "updated_at": "2026-10-20T06:32:09.800Z",
   "latest": {
-    "version": "26.131",
+    "version": "26.132",
     "file": "bundle.bin",
-    "size": 1119957,
-    "sha256": "03d5641daa94444bd63177956b2db608bbe6ed541312a2e25ad6e5c33e48ccbf",
-    "min_exe_version": "26.131",
+    "size": 1122705,
+    "sha256": "39365a15a16c5756b4e99e823a80be9f005007257bc4fbb072c9e6f28800047b",
+    "min_exe_version": "26.132",
     "requires_exe_rebuild": true,
-    "note": "首页待办五块排成一行（只改 CSS）"
+    "note": "数据拉取全面提速（预热 41s→9s、跟卖 23s→10s）+ 部分退款也登记退款数量"
   }
 }
