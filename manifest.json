@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-20T03:30:49.634Z",
+  "updated_at": "2026-10-20T05:00:34.039Z",
   "latest": {
-    "version": "26.130",
+    "version": "26.131",
     "file": "bundle.bin",
-    "size": 1119095,
-    "sha256": "462ab2dcb4aac9a9b6a2fa396688e2739b4862e7a45b22695a5c7fad262b8316",
-    "min_exe_version": "26.130",
+    "size": 1119957,
+    "sha256": "03d5641daa94444bd63177956b2db608bbe6ed541312a2e25ad6e5c33e48ccbf",
+    "min_exe_version": "26.131",
     "requires_exe_rebuild": true,
-    "note": "跟卖扫描提速（不等预热/10并发/key池吃满/只查在售/进度显示）+ 报价三个列表可直接删除（OF24 update_delete，offer_deleted 判据）"
+    "note": "首页待办五块排成一行（只改 CSS）"
   }
 }
