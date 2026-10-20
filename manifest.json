@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-20T06:32:09.800Z",
+  "updated_at": "2026-10-20T07:07:06.462Z",
   "latest": {
-    "version": "26.132",
+    "version": "26.133",
     "file": "bundle.bin",
-    "size": 1122705,
-    "sha256": "39365a15a16c5756b4e99e823a80be9f005007257bc4fbb072c9e6f28800047b",
-    "min_exe_version": "26.132",
+    "size": 1123073,
+    "sha256": "ff7d3b96231f97af528bbb97b5e72ba4f0ca6bd510f43d26014a98d68a8604ba",
+    "min_exe_version": "26.133",
     "requires_exe_rebuild": true,
-    "note": "数据拉取全面提速（预热 41s→9s、跟卖 23s→10s）+ 部分退款也登记退款数量"
+    "note": "首页「购物车被抢占」0 态不再置灰（0 显绿、非 0 显红）"
   }
 }
