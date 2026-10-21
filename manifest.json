@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-21T11:52:55.462Z",
+  "updated_at": "2026-10-21T12:11:19.172Z",
   "latest": {
-    "version": "26.135",
+    "version": "26.136",
     "file": "bundle.bin",
-    "size": 1136112,
-    "sha256": "290a55563b7cea8c20398b7d35b94a57bc58a6d7415f715aeeed31586558a3ff",
-    "min_exe_version": "26.135",
+    "size": 1136136,
+    "sha256": "33b26894123e7fd55f58212ea807d4ab8b0cab462946c3b64a7287a3501d2fd6",
+    "min_exe_version": "26.136",
     "requires_exe_rebuild": true,
-    "note": "全模块性能审计22项落地：全局429熔断、等待有界、切店隔离、腾讯文档与WMS截止时间"
+    "note": "26.135 收尾：普查抓到的 3 条回归修复（跟卖投影丢 active / 分页短限流不自愈 / 改价进度标注）"
   }
 }
