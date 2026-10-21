@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-21T12:59:37.150Z",
+  "updated_at": "2026-10-21T13:35:48.628Z",
   "latest": {
-    "version": "26.137",
+    "version": "26.138",
     "file": "bundle.bin",
-    "size": 1136132,
-    "sha256": "fee3eef5c4de72d01c0cadaf7603a88ad06a0db6905e2b0552388448cbb81013",
-    "min_exe_version": "26.137",
+    "size": 1138295,
+    "sha256": "db57d0094b084fd46c0f7c7977ad14c6b23bd4d9b05361ac59452aa2d30005db",
+    "min_exe_version": "26.138",
     "requires_exe_rebuild": true,
-    "note": "递四方选端口修复：pickFreePort 滤掉 undici bad port，避免会话失效时起浏览器取会话假失败 45 秒"
+    "note": "限流提示前端可见（rate_limit 状态行 + 表格横幅）；渲染与 Mirakl 端到端证据补齐，P3-21 判定不改"
   }
 }
