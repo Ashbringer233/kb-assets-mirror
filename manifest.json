@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-21T15:32:27.422Z",
+  "updated_at": "2026-10-21T16:34:42.531Z",
   "latest": {
-    "version": "26.139",
+    "version": "26.140",
     "file": "bundle.bin",
-    "size": 1140874,
-    "sha256": "a3540c5901f667dcf0cb79387fc16a4f48bd02b4953e02ac0aea8f08ca2cbed8",
-    "min_exe_version": "26.139",
+    "size": 1143621,
+    "sha256": "df1a4a63687c08b664c83134b6ef769cb7126f65a4a444993f69ee5629e0eb14",
+    "min_exe_version": "26.140",
     "requires_exe_rebuild": true,
-    "note": "首屏/启动/CSV解析三处去阻塞 + 探针入库"
+    "note": "跟卖监控子页可切店铺（只切子页）+ 修两处断言旧契约的假红"
   }
 }
