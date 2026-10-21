@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-21T13:35:48.628Z",
+  "updated_at": "2026-10-21T15:32:27.422Z",
   "latest": {
-    "version": "26.138",
+    "version": "26.139",
     "file": "bundle.bin",
-    "size": 1138295,
-    "sha256": "db57d0094b084fd46c0f7c7977ad14c6b23bd4d9b05361ac59452aa2d30005db",
-    "min_exe_version": "26.138",
+    "size": 1140874,
+    "sha256": "a3540c5901f667dcf0cb79387fc16a4f48bd02b4953e02ac0aea8f08ca2cbed8",
+    "min_exe_version": "26.139",
     "requires_exe_rebuild": true,
-    "note": "限流提示前端可见（rate_limit 状态行 + 表格横幅）；渲染与 Mirakl 端到端证据补齐，P3-21 判定不改"
+    "note": "首屏/启动/CSV解析三处去阻塞 + 探针入库"
   }
 }
