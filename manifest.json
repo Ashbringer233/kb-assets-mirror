@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-21T16:34:42.531Z",
+  "updated_at": "2026-10-22T02:10:53.737Z",
   "latest": {
-    "version": "26.140",
+    "version": "26.141",
     "file": "bundle.bin",
-    "size": 1143621,
-    "sha256": "df1a4a63687c08b664c83134b6ef769cb7126f65a4a444993f69ee5629e0eb14",
-    "min_exe_version": "26.140",
+    "size": 1144595,
+    "sha256": "65f4305c2926900a297045eaad2aa7a006c63c1e02ab0dc4cf5e2cfcfccfc621",
+    "min_exe_version": "26.141",
     "requires_exe_rebuild": true,
-    "note": "跟卖监控子页可切店铺（只切子页）+ 修两处断言旧契约的假红"
+    "note": "全模块性能扫描后落地：6 处同步 IO 记忆化、查价预热、实时核价按 key 并行、批量退款两段并发"
   }
 }
