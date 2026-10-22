@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-22T02:10:53.737Z",
+  "updated_at": "2026-10-22T11:43:41.014Z",
   "latest": {
-    "version": "26.141",
+    "version": "26.142",
     "file": "bundle.bin",
-    "size": 1144595,
-    "sha256": "65f4305c2926900a297045eaad2aa7a006c63c1e02ab0dc4cf5e2cfcfccfc621",
-    "min_exe_version": "26.141",
+    "size": 1144599,
+    "sha256": "f6fee80046e33839643bb1aa24d30904917ca401dd08cff138912bd85869e46f",
+    "min_exe_version": "26.142",
     "requires_exe_rebuild": true,
-    "note": "全模块性能扫描后落地：6 处同步 IO 记忆化、查价预热、实时核价按 key 并行、批量退款两段并发"
+    "note": "修复订单搜不到：OR11 改用 order_ids 复数+逗号多值、后缀判据改 /-[A-Z]$/、429 不再伪装成订单不存在"
   }
 }
