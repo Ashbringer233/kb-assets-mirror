@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-23T06:34:30.306Z",
+  "updated_at": "2026-10-23T07:01:18.009Z",
   "latest": {
     "version": "26.143",
     "file": "bundle.bin",
-    "size": 1144657,
-    "sha256": "fd90f572f9e0e81a219c2d1bb1ec19e245dd9a7f3f8f89cc51cd4ae32af49aa9",
+    "size": 1144367,
+    "sha256": "3d942ce49302bbec71383ebcf63a7e4215686ba3f7c4f85ad3c937b3bb4a359a",
     "min_exe_version": "26.143",
     "requires_exe_rebuild": true,
-    "note": "修复发货超时操作状态一直「未查询」：只查展示窗口、单页超时放宽到45秒并重试、分批容错、失败后3分钟自动补一轮"
+    "note": "v26.143 发布"
   }
 }
