@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-22T11:43:41.014Z",
+  "updated_at": "2026-10-23T06:34:30.306Z",
   "latest": {
-    "version": "26.142",
+    "version": "26.143",
     "file": "bundle.bin",
-    "size": 1144599,
-    "sha256": "f6fee80046e33839643bb1aa24d30904917ca401dd08cff138912bd85869e46f",
-    "min_exe_version": "26.142",
+    "size": 1144657,
+    "sha256": "fd90f572f9e0e81a219c2d1bb1ec19e245dd9a7f3f8f89cc51cd4ae32af49aa9",
+    "min_exe_version": "26.143",
     "requires_exe_rebuild": true,
-    "note": "修复订单搜不到：OR11 改用 order_ids 复数+逗号多值、后缀判据改 /-[A-Z]$/、429 不再伪装成订单不存在"
+    "note": "修复发货超时操作状态一直「未查询」：只查展示窗口、单页超时放宽到45秒并重试、分批容错、失败后3分钟自动补一轮"
   }
 }
