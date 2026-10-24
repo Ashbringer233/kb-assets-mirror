@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-24T17:32:44.532Z",
+  "updated_at": "2026-10-24T18:12:30.970Z",
   "latest": {
-    "version": "26.147",
+    "version": "26.148",
     "file": "bundle.bin",
-    "size": 1207836,
-    "sha256": "a0560f94f0095be9caee486e4926ed506d747c49e191dcf6ea75bc93bb1b74bf",
-    "min_exe_version": "26.147",
+    "size": 1209816,
+    "sha256": "8e44d198fbb3b67e1f3bdf81abde4bfd8cb089d14fee595d0e313076753d6e83",
+    "min_exe_version": "26.148",
     "requires_exe_rebuild": true,
-    "note": "报价提交后新增「已提交·待生效」态（回填平台真值），收尾判据由 confirmed 改为 submitted；后端改价复核节奏 60s→30s（SETTLE 2min / MAX_RETRIES 10 不动）"
+    "note": "v26.148 发布"
   }
 }
