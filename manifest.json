@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-24T16:55:49.449Z",
+  "updated_at": "2026-10-24T17:32:44.532Z",
   "latest": {
-    "version": "26.146",
+    "version": "26.147",
     "file": "bundle.bin",
-    "size": 1199980,
-    "sha256": "8cea58da4e3a65c8faa49056a2570949bacda2b2c5f47893dc28e6fba4d59081",
-    "min_exe_version": "26.146",
+    "size": 1207836,
+    "sha256": "a0560f94f0095be9caee486e4926ed506d747c49e191dcf6ea75bc93bb1b74bf",
+    "min_exe_version": "26.147",
     "requires_exe_rebuild": true,
-    "note": "删除站内信让路（实测并发 0×429 且让路零收益）+ 补跑首拍 45→15 秒 + 店间间隔 350→0ms"
+    "note": "报价提交后新增「已提交·待生效」态（回填平台真值），收尾判据由 confirmed 改为 submitted；后端改价复核节奏 60s→30s（SETTLE 2min / MAX_RETRIES 10 不动）"
   }
 }
