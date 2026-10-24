@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-24T15:26:48.560Z",
+  "updated_at": "2026-10-24T15:46:33.881Z",
   "latest": {
-    "version": "26.144",
+    "version": "26.145",
     "file": "bundle.bin",
-    "size": 1200547,
-    "sha256": "e50e751365fe1d826fba54c322614735c6013eafbcabe073e025d69fd1b74c34",
-    "min_exe_version": "26.144",
+    "size": 1200719,
+    "sha256": "7fda37ec4b09af1133ceed04b6823e98327f542ac46648687a8144ea94197012",
+    "min_exe_version": "26.145",
     "requires_exe_rebuild": true,
-    "note": "后端 R01-R16 + U01-U04 + 前端 B-RADAR-02 审计修复"
+    "note": "跟卖扫描静默缺店：逐店核对报价快照 + 缺快照补跑 + 补到即重扫 + missing_shops 透出；本包含 v26.144 全部内容"
   }
 }
