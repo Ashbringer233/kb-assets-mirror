@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-23T07:01:18.009Z",
+  "updated_at": "2026-10-24T15:26:48.560Z",
   "latest": {
-    "version": "26.143",
+    "version": "26.144",
     "file": "bundle.bin",
-    "size": 1144367,
-    "sha256": "3d942ce49302bbec71383ebcf63a7e4215686ba3f7c4f85ad3c937b3bb4a359a",
-    "min_exe_version": "26.143",
+    "size": 1200547,
+    "sha256": "e50e751365fe1d826fba54c322614735c6013eafbcabe073e025d69fd1b74c34",
+    "min_exe_version": "26.144",
     "requires_exe_rebuild": true,
-    "note": "v26.143 发布"
+    "note": "后端 R01-R16 + U01-U04 + 前端 B-RADAR-02 审计修复"
   }
 }
