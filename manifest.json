@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-25T16:47:13.109Z",
+  "updated_at": "2026-10-25T17:48:34.881Z",
   "latest": {
-    "version": "26.163",
+    "version": "26.164",
     "file": "bundle.bin",
-    "size": 1329938,
-    "sha256": "4946cdd8af1bc11fb14b768feae74918043e7676cdf8a8a0eefb0d79f58d46a9",
-    "min_exe_version": "26.163",
+    "size": 1330040,
+    "sha256": "220e0c404f289c04864697a67d6e6c70163aae26a89669e298f76b4fc5630fb3",
+    "min_exe_version": "26.164",
     "requires_exe_rebuild": true,
-    "note": "断货预警（新模块 stock-alert.js）+ 库龄压货看板四档金额时间轴"
+    "note": "并发桶按店铺与通道分开（api_key|shop_id|channel），并发上限仍 3；顺带修 31 个隔离夹具的孤儿模块清单"
   }
 }
