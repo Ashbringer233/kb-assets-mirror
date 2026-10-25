@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-25T07:06:44.634Z",
+  "updated_at": "2026-10-25T07:19:33.863Z",
   "latest": {
     "version": "26.152",
     "file": "bundle.bin",
-    "size": 1212632,
-    "sha256": "f20d6bbe81405fe3a1e86f3d2613f819cc2ab53c67542c02ed38bd99e4f93afb",
+    "size": 1212790,
+    "sha256": "286346ac88721372900e6b3446eb67bdecb71a16d8732780456e6054c683cfc8",
     "min_exe_version": "26.152",
     "requires_exe_rebuild": true,
-    "note": "v26.152 发布"
+    "note": "首屏五处字典类上游内存化 + 改价复核一次增量导出 + 前端不再自核价"
   }
 }
