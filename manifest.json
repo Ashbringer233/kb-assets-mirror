@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-25T16:02:57.243Z",
+  "updated_at": "2026-10-25T16:47:13.109Z",
   "latest": {
-    "version": "26.162",
+    "version": "26.163",
     "file": "bundle.bin",
-    "size": 1292067,
-    "sha256": "ac47c7cceb9aef28a7c80ba8b75956ddac1d0049a018aa6718acbd2bf69bbaef",
-    "min_exe_version": "26.162",
+    "size": 1329938,
+    "sha256": "4946cdd8af1bc11fb14b768feae74918043e7676cdf8a8a0eefb0d79f58d46a9",
+    "min_exe_version": "26.163",
     "requires_exe_rebuild": true,
-    "note": "压货清单按金额排序 + 千元以下折叠 + 删可调拨页签"
+    "note": "断货预警（新模块 stock-alert.js）+ 库龄压货看板四档金额时间轴"
   }
 }
