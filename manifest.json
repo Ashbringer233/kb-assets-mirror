@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-25T11:43:49.354Z",
+  "updated_at": "2026-10-25T12:08:07.062Z",
   "latest": {
-    "version": "26.157",
+    "version": "26.158",
     "file": "bundle.bin",
-    "size": 1242348,
-    "sha256": "420fac6987432445c7ea4082145fca6f3c39a2293dd2ce990b0fc52607b5144a",
-    "min_exe_version": "26.157",
+    "size": 1246436,
+    "sha256": "81ca2879dede0d53ac857cdb7565d1620607ff13f50efb6cdb38d4cb1baa8fd6",
+    "min_exe_version": "26.158",
     "requires_exe_rebuild": true,
-    "note": "库存状态查询：左侧列表按销量排序 + 曲线默认窗口 60 天"
+    "note": "库存状态查询排版放大 + 表格去横拉条 + 轨迹显示全"
   }
 }
