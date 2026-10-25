@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-25T15:13:57.395Z",
+  "updated_at": "2026-10-25T15:48:08.398Z",
   "latest": {
-    "version": "26.160",
+    "version": "26.161",
     "file": "bundle.bin",
-    "size": 1288125,
-    "sha256": "cd5476d3432e6b0598e6542c6da7f7f1ee8bbb3950b7feb7da3b19a69e46d4e2",
-    "min_exe_version": "26.160",
+    "size": 1289146,
+    "sha256": "e36e65653529ba7e99073617edce7d58c677472a7315022281e8c67cf9d4f62a",
+    "min_exe_version": "26.161",
     "requires_exe_rebuild": true,
-    "note": "库存状态查询新增库龄压货子模块 + 首页第 6 块库龄超期预测"
+    "note": "库龄超期预测瓦片只报金额；库存走势图到货标签排版"
   }
 }
