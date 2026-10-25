@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-25T15:48:08.398Z",
+  "updated_at": "2026-10-25T16:02:57.243Z",
   "latest": {
-    "version": "26.161",
+    "version": "26.162",
     "file": "bundle.bin",
-    "size": 1289146,
-    "sha256": "e36e65653529ba7e99073617edce7d58c677472a7315022281e8c67cf9d4f62a",
-    "min_exe_version": "26.161",
+    "size": 1292067,
+    "sha256": "ac47c7cceb9aef28a7c80ba8b75956ddac1d0049a018aa6718acbd2bf69bbaef",
+    "min_exe_version": "26.162",
     "requires_exe_rebuild": true,
-    "note": "库龄超期预测瓦片只报金额；库存走势图到货标签排版"
+    "note": "压货清单按金额排序 + 千元以下折叠 + 删可调拨页签"
   }
 }
