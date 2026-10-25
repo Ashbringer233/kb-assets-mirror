@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-25T07:46:45.077Z",
+  "updated_at": "2026-10-25T11:26:47.908Z",
   "latest": {
-    "version": "26.153",
+    "version": "26.156",
     "file": "bundle.bin",
-    "size": 1218998,
-    "sha256": "e6ffb5347600a1ce48b06e2ff1b5b4d6d396259df14c027ac4681e8984ba23b9",
-    "min_exe_version": "26.153",
+    "size": 1242353,
+    "sha256": "61ad7f9cdc0cd88dc0a12a0c084a26e074a885b7d039a9289bd7fbc82ca0c8c7",
+    "min_exe_version": "26.156",
     "requires_exe_rebuild": true,
-    "note": "真控制台零回显防止一行日志冻死进程；前端请求可选超时 + 失联红条"
+    "note": "库存状态查询上线 + 发货超时并入发货页 + AI 任务模块移除"
   }
 }
