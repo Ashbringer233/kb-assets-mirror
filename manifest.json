@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-25T07:19:33.863Z",
+  "updated_at": "2026-10-25T07:46:45.077Z",
   "latest": {
-    "version": "26.152",
+    "version": "26.153",
     "file": "bundle.bin",
-    "size": 1212790,
-    "sha256": "286346ac88721372900e6b3446eb67bdecb71a16d8732780456e6054c683cfc8",
-    "min_exe_version": "26.152",
+    "size": 1218998,
+    "sha256": "e6ffb5347600a1ce48b06e2ff1b5b4d6d396259df14c027ac4681e8984ba23b9",
+    "min_exe_version": "26.153",
     "requires_exe_rebuild": true,
-    "note": "首屏五处字典类上游内存化 + 改价复核一次增量导出 + 前端不再自核价"
+    "note": "真控制台零回显防止一行日志冻死进程；前端请求可选超时 + 失联红条"
   }
 }
