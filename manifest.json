@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-26T02:56:51.118Z",
+  "updated_at": "2026-10-26T03:14:40.785Z",
   "latest": {
-    "version": "26.166",
+    "version": "26.167",
     "file": "bundle.bin",
-    "size": 1339550,
-    "sha256": "678c1dd4c21fd1e473297753663ade811624ab08ce4609727f1928da40ac01c2",
-    "min_exe_version": "26.166",
+    "size": 1339265,
+    "sha256": "fd55d0451b7af95b1be2bdeb70748bcf51474a69ba2e7200646bfbc69289a3dc",
+    "min_exe_version": "26.167",
     "requires_exe_rebuild": true,
-    "note": "库龄压货概览卡删掉 60 天内将跨线 / 真呆滞 / 全司持有排名 三张（只删展示，数据层不动）"
+    "note": "压货清单补上仓库与近90天出库（源表04块只有5列）；删掉能不能调走列"
   }
 }
