@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-26T11:37:53.377Z",
+  "updated_at": "2026-10-26T11:42:40.739Z",
   "latest": {
     "version": "26.173",
     "file": "bundle.bin",
-    "size": 1350636,
-    "sha256": "609cb5a0bb882f53942959b73674e33792b670a4e9a6bee0064c5c63a6b80a29",
+    "size": 1350494,
+    "sha256": "eb19fbd9df21c1cb1b450f1033b4fc265db704c169e6ff1195ebe01c753607a8",
     "min_exe_version": "26.173",
     "requires_exe_rebuild": true,
-    "note": "腾讯文档日配额 2000 次；配对表 TTL 24h→7d、库存2 独立 48h、普查默认 MK_TDOC_OFFLINE=1（只挡真域名，本机 mock 放行）"
+    "note": "简报回填实测字节（内联脚本 882,689 / index.html +84）→ 重建包"
   }
 }
