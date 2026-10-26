@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-26T03:14:40.785Z",
+  "updated_at": "2026-10-26T03:47:34.632Z",
   "latest": {
-    "version": "26.167",
+    "version": "26.168",
     "file": "bundle.bin",
-    "size": 1339265,
-    "sha256": "fd55d0451b7af95b1be2bdeb70748bcf51474a69ba2e7200646bfbc69289a3dc",
-    "min_exe_version": "26.167",
+    "size": 1341273,
+    "sha256": "8bd3ea4dcd8deb6587187ab3384fe5eb0d7c63a745d7cf7d8ca802d2a5dcf569",
+    "min_exe_version": "26.168",
     "requires_exe_rebuild": true,
-    "note": "压货清单补上仓库与近90天出库（源表04块只有5列）；删掉能不能调走列"
+    "note": "断货预警：自己库存为0但Xiaojie Shao有货视为可调货不计入；库存2子表隔天06:20同步"
   }
 }
