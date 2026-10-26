@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-26T03:47:34.632Z",
+  "updated_at": "2026-10-26T04:17:01.546Z",
   "latest": {
-    "version": "26.168",
+    "version": "26.169",
     "file": "bundle.bin",
-    "size": 1341273,
-    "sha256": "8bd3ea4dcd8deb6587187ab3384fe5eb0d7c63a745d7cf7d8ca802d2a5dcf569",
-    "min_exe_version": "26.168",
+    "size": 1343609,
+    "sha256": "1d9169e9988bd09f3daba08b4fe71e72f99e9acf63005cc0cc8a30c9ebd3a73e",
+    "min_exe_version": "26.169",
     "requires_exe_rebuild": true,
-    "note": "断货预警：自己库存为0但Xiaojie Shao有货视为可调货不计入；库存2子表隔天06:20同步"
+    "note": "v26.169 发布"
   }
 }
