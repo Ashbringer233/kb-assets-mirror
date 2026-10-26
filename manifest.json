@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-26T10:54:49.454Z",
+  "updated_at": "2026-10-26T11:37:53.377Z",
   "latest": {
-    "version": "26.172",
+    "version": "26.173",
     "file": "bundle.bin",
-    "size": 1350444,
-    "sha256": "e0c956c6b6f639c33a86d14770bffc6d2bc563e6f932283a176a470239f2d3a1",
-    "min_exe_version": "26.172",
+    "size": 1350636,
+    "sha256": "609cb5a0bb882f53942959b73674e33792b670a4e9a6bee0064c5c63a6b80a29",
+    "min_exe_version": "26.173",
     "requires_exe_rebuild": true,
-    "note": "库存走势加第 5 张 KPI「总库存覆盖天数」，按 <30 红 / <50 黄 / 其余绿分档"
+    "note": "腾讯文档日配额 2000 次；配对表 TTL 24h→7d、库存2 独立 48h、普查默认 MK_TDOC_OFFLINE=1（只挡真域名，本机 mock 放行）"
   }
 }
