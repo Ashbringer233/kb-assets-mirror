@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-10-30T02:30:18.668Z",
+  "updated_at": "2026-11-02T03:35:59.498Z",
   "latest": {
-    "version": "26.176",
+    "version": "26.177",
     "file": "bundle.bin",
-    "size": 1365894,
-    "sha256": "d263b5511101139864224921828cd6f1c15b8cf8735211910b8eaa04680cc648",
-    "min_exe_version": "26.176",
+    "size": 1367314,
+    "sha256": "4f368c50f2caedd11e249a060f9874dda650d079fa90d660d4ba4a8d74896553",
+    "min_exe_version": "26.177",
     "requires_exe_rebuild": true,
-    "note": "v26.176 发布"
+    "note": "手动退款登记不再校验可退余额"
   }
 }
