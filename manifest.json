@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-04T15:37:04.743Z",
+  "updated_at": "2026-11-04T16:28:34.938Z",
   "latest": {
-    "version": "26.178",
+    "version": "26.179",
     "file": "bundle.bin",
-    "size": 1399356,
-    "sha256": "0067f30fa45b670ecf6e451d087f464ab60ea202264af9360511fbfae879ad04",
-    "min_exe_version": "26.178",
+    "size": 1398911,
+    "sha256": "361ec2990044151e4a5b997abd25408672c6977c6a0fdb9378ca1eed2478e086",
+    "min_exe_version": "26.179",
     "requires_exe_rebuild": true,
-    "note": "跟卖监控新增自动跟卖调价（逐条开关 + 压价/回涨/底价 + 涨后照常检测）"
+    "note": "自动调价的回涨只按划线价封顶，删掉每日回涨次数上限"
   }
 }
