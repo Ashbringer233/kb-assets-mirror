@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-04T16:28:34.938Z",
+  "updated_at": "2026-11-04T16:56:37.941Z",
   "latest": {
-    "version": "26.179",
+    "version": "26.180",
     "file": "bundle.bin",
-    "size": 1398911,
-    "sha256": "361ec2990044151e4a5b997abd25408672c6977c6a0fdb9378ca1eed2478e086",
-    "min_exe_version": "26.179",
+    "size": 1405618,
+    "sha256": "e4ae2b265da78d0275574c9716888b41b77a5abd12c28a2f66bec35267eb8912",
+    "min_exe_version": "26.180",
     "requires_exe_rebuild": true,
-    "note": "自动调价的回涨只按划线价封顶，删掉每日回涨次数上限"
+    "note": "自动调价面板重排；去掉开启勾选框（保存即开启）；保存后立刻检查一次"
   }
 }
