@@ -4,7 +4,7 @@
   "app_version": "26.186",
   "min_exe_version": "26.186",
   "requires_exe_rebuild": true,
-  "created_at": "2026-11-06T09:28:50.175Z",
+  "created_at": "2026-11-06T09:31:07.537Z",
   "note": "自动调价巡检锁刻度+埃森仓归海外仓",
   "files": [
     {
