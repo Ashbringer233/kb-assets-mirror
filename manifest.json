@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-05T09:53:07.040Z",
+  "updated_at": "2026-11-06T07:45:06.168Z",
   "latest": {
-    "version": "26.183",
+    "version": "26.184",
     "file": "bundle.bin",
-    "size": 1425290,
-    "sha256": "bed588a329c0c9933445c26f86ff65c2dfb6e59d635451eba183ce175ce9bc82",
-    "min_exe_version": "26.183",
+    "size": 1427646,
+    "sha256": "2fc7d5684589308494efaeae53cc424555c492ed9fd5fda8e0ad43b8162b0ed9",
+    "min_exe_version": "26.184",
     "requires_exe_rebuild": true,
-    "note": "ERP 履约状态卡多一格「收件邮编」"
+    "note": "v26.184 发布"
   }
 }
