@@ -1,12 +1,12 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-06T09:31:53.271Z",
+  "updated_at": "2026-11-06T09:37:14.340Z",
   "latest": {
     "version": "26.186",
     "file": "bundle.bin",
     "size": 1437989,
-    "sha256": "2dd7163a9aa2a24fb211e5e5241d8597acce9e63ab3ca0159df4aceb83a9c1e7",
+    "sha256": "2620427993da08eed48a6dbee547f6d47229d94e1e5b5cd3287990882bb0f62d",
     "min_exe_version": "26.186",
     "requires_exe_rebuild": true,
     "note": "自动调价巡检锁刻度+埃森仓归海外仓"
