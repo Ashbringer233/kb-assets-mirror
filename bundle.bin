@@ -4,7 +4,7 @@
   "app_version": "26.188",
   "min_exe_version": "26.188",
   "requires_exe_rebuild": true,
-  "created_at": "2026-11-09T06:59:31.616Z",
+  "created_at": "2026-11-09T07:00:35.485Z",
   "note": "报价备货期不再被页面缓存旧值回写",
   "files": [
     {
