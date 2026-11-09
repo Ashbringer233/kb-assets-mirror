@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-09T07:00:35.502Z",
+  "updated_at": "2026-11-09T08:16:23.347Z",
   "latest": {
-    "version": "26.188",
+    "version": "26.189",
     "file": "bundle.bin",
-    "size": 1447036,
-    "sha256": "95e57c21302df377b6b9119491878002e4e76710f7204ad039a65fc537488878",
-    "min_exe_version": "26.188",
+    "size": 1474670,
+    "sha256": "c6e93ed0f43394c433cde8bac758bee58a0a5fe983a486b57e47f7d6d373d40d",
+    "min_exe_version": "26.189",
     "requires_exe_rebuild": true,
-    "note": "报价备货期不再被页面缓存旧值回写"
+    "note": "按SKU查采购价/重量/尺寸，给出六渠道保本价与10%利润率售价；汇率每日同步+手动同步；不填SKU也能打开"
   }
 }
