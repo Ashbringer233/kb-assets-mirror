@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-09T08:16:23.347Z",
+  "updated_at": "2026-11-09T09:07:55.844Z",
   "latest": {
-    "version": "26.189",
+    "version": "26.190",
     "file": "bundle.bin",
-    "size": 1474670,
-    "sha256": "c6e93ed0f43394c433cde8bac758bee58a0a5fe983a486b57e47f7d6d373d40d",
-    "min_exe_version": "26.189",
+    "size": 1484937,
+    "sha256": "a22b57a784007fdec8343f8109e6d04df89314ee270cea93ebc3b7ca1b437b11",
+    "min_exe_version": "26.190",
     "requires_exe_rebuild": true,
-    "note": "按SKU查采购价/重量/尺寸，给出六渠道保本价与10%利润率售价；汇率每日同步+手动同步；不填SKU也能打开"
+    "note": "物流单价/费率/整柜/目标收进设置按钮；固定杂费3.07确认为退货损耗项并改成常量5写进公式；结果表六渠道配色+保本价对比条"
   }
 }
