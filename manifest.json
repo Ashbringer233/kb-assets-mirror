@@ -1,12 +1,12 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-09T06:59:31.634Z",
+  "updated_at": "2026-11-09T07:00:35.502Z",
   "latest": {
     "version": "26.188",
     "file": "bundle.bin",
     "size": 1447036,
-    "sha256": "1292d9669ba4bb805af6156d773142233a03947634829e2d88048f5ae6432f42",
+    "sha256": "95e57c21302df377b6b9119491878002e4e76710f7204ad039a65fc537488878",
     "min_exe_version": "26.188",
     "requires_exe_rebuild": true,
     "note": "报价备货期不再被页面缓存旧值回写"
