@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-09T06:42:33.168Z",
+  "updated_at": "2026-11-09T06:59:31.634Z",
   "latest": {
-    "version": "26.187",
+    "version": "26.188",
     "file": "bundle.bin",
-    "size": 1446439,
-    "sha256": "faab97fa936b1a7f3dd7bd6873e969dd37b050e7ae81fbbcb76b4b39ed7cae4a",
-    "min_exe_version": "26.187",
+    "size": 1447036,
+    "sha256": "1292d9669ba4bb805af6156d773142233a03947634829e2d88048f5ae6432f42",
+    "min_exe_version": "26.188",
     "requires_exe_rebuild": true,
-    "note": "发货承运商选中即回填输入框；报价提交记录确认生效后自动收起（四条件判定，失败批不自动关）"
+    "note": "报价备货期不再被页面缓存旧值回写"
   }
 }
