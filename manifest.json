@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-09T09:36:56.075Z",
+  "updated_at": "2026-11-09T09:55:43.709Z",
   "latest": {
-    "version": "26.191",
+    "version": "26.192",
     "file": "bundle.bin",
-    "size": 1487643,
-    "sha256": "9888011cdd4cce74aeb356574697536b177a139cdee95354c3c8aa06572510da",
-    "min_exe_version": "26.191",
+    "size": 1492152,
+    "sha256": "10e0866ac4a081ab8118beb2ab1167c16a0cf0e7366c1fb6f55418c74c8eb5b0",
+    "min_exe_version": "26.192",
     "requires_exe_rebuild": true,
-    "note": "订单信息新增出库时间：接口直出+操作信息兜底"
+    "note": "定价预设值内置：腾讯文档读不到也能直接算"
   }
 }
