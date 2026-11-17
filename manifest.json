@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-13T10:10:12.542Z",
+  "updated_at": "2026-11-17T02:44:27.757Z",
   "latest": {
-    "version": "26.196",
+    "version": "26.197",
     "file": "bundle.bin",
-    "size": 1496465,
-    "sha256": "9a5bbfd6a30d964d2183498d8dab502275c3f50feed21d195c33d8f4e7b0fda0",
-    "min_exe_version": "26.196",
+    "size": 1496385,
+    "sha256": "79eb97ededff1b100334b37b8ea79affd923c3366e2e28374dc8993a88dc8e57",
+    "min_exe_version": "26.197",
     "requires_exe_rebuild": true,
-    "note": "站内信订单号点一下复制（失败必报错）"
+    "note": "v26.197 发布"
   }
 }
