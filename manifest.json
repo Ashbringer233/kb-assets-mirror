@@ -1,12 +1,12 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-23T16:10:16.039Z",
+  "updated_at": "2026-11-23T16:28:24.247Z",
   "latest": {
     "version": "26.201",
     "file": "bundle.bin",
-    "size": 1536052,
-    "sha256": "ac873449902406f11bb5caecaf0f52be297c1dc51b17fd1d02a7fddceeb42fea",
+    "size": 1535812,
+    "sha256": "36a18ddd8e69d8e14890c58d7c90048169ecbacfbe6b069c2788be3fa1ca2038",
     "min_exe_version": "26.201",
     "requires_exe_rebuild": true,
     "note": "v26.201 发布"
