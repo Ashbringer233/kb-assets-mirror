@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-20T18:07:30.098Z",
+  "updated_at": "2026-11-23T15:01:12.853Z",
   "latest": {
-    "version": "26.199",
+    "version": "26.200",
     "file": "bundle.bin",
-    "size": 1518242,
-    "sha256": "68c33b98b38d5351c2c6324f2d4609e62473886b0597baeadc6edacf88575a35",
-    "min_exe_version": "26.199",
+    "size": 1518359,
+    "sha256": "6088d26d5c78a4869ce047b5fafb94d931bad7f6bdb9580e51c375929004e418",
+    "min_exe_version": "26.200",
     "requires_exe_rebuild": true,
-    "note": "任务中心失败重试 + 新增调价"
+    "note": "异常订单扫描从每小时一轮改为每天北京时间09:00一轮"
   }
 }
