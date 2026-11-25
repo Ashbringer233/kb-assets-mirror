@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-25T09:11:21.627Z",
+  "updated_at": "2026-11-25T09:52:32.379Z",
   "latest": {
-    "version": "26.204",
+    "version": "26.205",
     "file": "bundle.bin",
-    "size": 1613041,
-    "sha256": "5a96323f193a7782366883d4489c0b93480d8ce88f9c595f742603635f349152",
-    "min_exe_version": "26.204",
+    "size": 1613055,
+    "sha256": "0c906201772c0871c63d9d222cbbdf754fb3c4b0afd216cc563aa71f8ab0f262",
+    "min_exe_version": "26.205",
     "requires_exe_rebuild": true,
-    "note": "运营日报进工作台（6 视图 + 首页昨日经营快照条）+ 参考退货理由可手填可下拉可自维护"
+    "note": "运营日报冷读从 11.5 秒压到约 1.5 秒：去掉每表一次的越界确认请求，改成按页并发 + 满页续读"
   }
 }
