@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-25T08:25:10.395Z",
+  "updated_at": "2026-11-25T09:11:21.627Z",
   "latest": {
-    "version": "26.203",
+    "version": "26.204",
     "file": "bundle.bin",
-    "size": 1539628,
-    "sha256": "cc97ff45be7d35b1c50fd7e92dbc8b2d23bae37fea98b49247221799231170e7",
-    "min_exe_version": "26.203",
+    "size": 1613041,
+    "sha256": "5a96323f193a7782366883d4489c0b93480d8ce88f9c595f742603635f349152",
+    "min_exe_version": "26.204",
     "requires_exe_rebuild": true,
-    "note": "修跟卖监控「有对手未抢占」的「新增」点了没反应"
+    "note": "运营日报进工作台（6 视图 + 首页昨日经营快照条）+ 参考退货理由可手填可下拉可自维护"
   }
 }
