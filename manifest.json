@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-24T05:09:28.438Z",
+  "updated_at": "2026-11-25T08:15:55.664Z",
   "latest": {
-    "version": "26.202",
+    "version": "26.203",
     "file": "bundle.bin",
-    "size": 1538892,
-    "sha256": "50c7d12d006aee4c71199982ad21aa65c93edeb03247a16335e66db0bca0fd03",
-    "min_exe_version": "26.202",
+    "size": 1539628,
+    "sha256": "b60eb7e20dabf091b3d97c3fe0546559858e04b98cc211f79fd6c16db4fa2985",
+    "min_exe_version": "26.203",
     "requires_exe_rebuild": true,
-    "note": "v26.202 发布"
+    "note": "修跟卖监控「有对手未抢占」的「新增」点了没反应"
   }
 }
