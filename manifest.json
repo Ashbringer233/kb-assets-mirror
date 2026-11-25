@@ -1,12 +1,12 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-25T08:15:55.664Z",
+  "updated_at": "2026-11-25T08:17:23.596Z",
   "latest": {
     "version": "26.203",
     "file": "bundle.bin",
     "size": 1539628,
-    "sha256": "b60eb7e20dabf091b3d97c3fe0546559858e04b98cc211f79fd6c16db4fa2985",
+    "sha256": "01996fe4bea630759a91893a3797f83e4f2d9af4d5ba4575b2621bc0d55b55c0",
     "min_exe_version": "26.203",
     "requires_exe_rebuild": true,
     "note": "修跟卖监控「有对手未抢占」的「新增」点了没反应"
