@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-25T09:52:32.379Z",
+  "updated_at": "2026-11-26T15:35:06.046Z",
   "latest": {
-    "version": "26.205",
+    "version": "26.206",
     "file": "bundle.bin",
-    "size": 1613055,
-    "sha256": "0c906201772c0871c63d9d222cbbdf754fb3c4b0afd216cc563aa71f8ab0f262",
-    "min_exe_version": "26.205",
+    "size": 1632764,
+    "sha256": "e5156ea0674719fb53a380a1251660893be601713ad58a01cab5a80a56941d07",
+    "min_exe_version": "26.206",
     "requires_exe_rebuild": true,
-    "note": "运营日报冷读从 11.5 秒压到约 1.5 秒：去掉每表一次的越界确认请求，改成按页并发 + 满页续读"
+    "note": "v26.206 发布"
   }
 }
