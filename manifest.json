@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-26T15:35:06.046Z",
+  "updated_at": "2026-11-26T15:48:05.152Z",
   "latest": {
-    "version": "26.206",
+    "version": "26.207",
     "file": "bundle.bin",
-    "size": 1632764,
-    "sha256": "e5156ea0674719fb53a380a1251660893be601713ad58a01cab5a80a56941d07",
-    "min_exe_version": "26.206",
+    "size": 1635400,
+    "sha256": "bcc78248e1968fa61808b731ffad841b5d66cf02a5537e4347b4d84345d4221c",
+    "min_exe_version": "26.207",
     "requires_exe_rebuild": true,
-    "note": "v26.206 发布"
+    "note": "审计第一批：异常订单对账三态不再误删登记行 + 日报源回退保留较新模型 + 库存曲线绑快照 + 日报重叠强刷共用一轮读表 + 只读超时覆盖响应体"
   }
 }
