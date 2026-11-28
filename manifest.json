@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-28T08:35:04.108Z",
+  "updated_at": "2026-11-28T09:50:22.169Z",
   "latest": {
-    "version": "26.210",
+    "version": "26.211",
     "file": "bundle.bin",
-    "size": 1627905,
-    "sha256": "9623ce18927bbac7389dc9af25b25dfce47347f6bfea8130769674c73b0006ce",
-    "min_exe_version": "26.210",
+    "size": 1634520,
+    "sha256": "39c8a7ec5f2f285be06e5c3f0041a6a6eeab8b57b82c2899872330fbdee617bb",
+    "min_exe_version": "26.211",
     "requires_exe_rebuild": true,
-    "note": "删除发货页异常订单审核(ERP)子模块(含09:00定时任务与abnormal-orders.js) + 删除后端AI任务桥5条/api/agent/*接口 + 首页商品榜整行布局"
+    "note": "库存走势图新增逾期标记与反事实测算；随包更新腾讯文档 token"
   }
 }
