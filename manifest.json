@@ -1,14 +1,14 @@
 {
   "asset": "kb-assets",
   "channel": "stable",
-  "updated_at": "2026-11-27T06:55:53.520Z",
+  "updated_at": "2026-11-28T08:35:04.108Z",
   "latest": {
-    "version": "26.209",
+    "version": "26.210",
     "file": "bundle.bin",
-    "size": 1640182,
-    "sha256": "7daedf4cb05ccf4b307a689fefa2525d96447ff4287f18edc859d3ac588cc200",
-    "min_exe_version": "26.209",
+    "size": 1627905,
+    "sha256": "9623ce18927bbac7389dc9af25b25dfce47347f6bfea8130769674c73b0006ce",
+    "min_exe_version": "26.210",
     "requires_exe_rebuild": true,
-    "note": "契约修复与并发写入安全：异常订单读表 12 列 + 对账/并发/数据完整性 13 项"
+    "note": "删除发货页异常订单审核(ERP)子模块(含09:00定时任务与abnormal-orders.js) + 删除后端AI任务桥5条/api/agent/*接口 + 首页商品榜整行布局"
   }
 }
